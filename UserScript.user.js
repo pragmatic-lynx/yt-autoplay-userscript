@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Anti-Pause
 // @namespace    http://tampermonkey.net/
-// @version      6.0
+// @version      6.1
 // @description  Prevents auto-pause when minimizing app, allows manual pause
 // @author       pragmatic-lynx
 // @match        https://www.youtube.com/*
