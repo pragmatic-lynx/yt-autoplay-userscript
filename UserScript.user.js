@@ -1,5 +1,3 @@
-
-// youtube-anti-pause.user.js
 // ==UserScript==
 // @name         YouTube Anti-Pause
 // @namespace    http://tampermonkey.net/
