@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      6.2
 // @description  Prevents auto-pause when minimizing app, allows manual pause
-// @author       You
+// @author       pragmatic-lynx
 // @match        https://www.youtube.com/*
 // @match        https://m.youtube.com/*
 // @grant        none
