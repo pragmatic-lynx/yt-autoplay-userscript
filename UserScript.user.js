@@ -10,6 +10,7 @@
 // @run-at       document-start
 // @downloadURL		https://github.com/pragmatic-lynx/yt-autoplay-userscript/raw/main/UserScript.user.js
 // @updateURL		https://github.com/pragmatic-lynx/yt-autoplay-userscript/raw/main/UserScript.user.js
+// ==/UserScript==
 
 (function() {
     'use strict';
